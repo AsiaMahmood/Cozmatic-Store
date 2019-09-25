@@ -8,10 +8,10 @@
 
     
     // $gClient = new Google_Client();
-    // // $gClient->setClientId("216970207116-1hlmvlsft3o9miuojmusoj8d2p74ecog.apps.googleusercontent.com");
-    // // $gClient->setClientSecret("4qZLZmWyMg208nit_dg9FUmS");
+    // // $gClient->setClientId("Add-your-$gClient");
+    // // $gClient->setClientSecret("");
     // $gClient->setApplicationName("Mano House UK");
-    // // $gClient->setRedirectUri("http://localhost:8080/Mano/g-callback.php");
+    // // $gClient->setRedirectUri("");
     // $client->setScopes(Google_Service_Gmail::GMAIL_READONLY);
 
     // $gClient->addScope(scope_or_scopes: "https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email")
