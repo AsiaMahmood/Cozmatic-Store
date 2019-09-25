@@ -8,8 +8,8 @@
     require_once 'includes/Api/Facebook/autoload.php';
 
     $FB = new  \Facebook\Facebook([
-        'app_id' => '1661248114006602' ,
-        'app_secret' => 'c8f57f623273acde1cfbd10c8715335b' , 
+        'app_id' => 'Add-your-id' ,
+        'app_secret' => 'Add-your-appsecretKey' , 
         'default_graph_version' => 'v2.10' 
     ]);
 
