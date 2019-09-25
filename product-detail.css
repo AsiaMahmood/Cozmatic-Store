@@ -1,0 +1,21 @@
+.container{
+    background-color: #ffffff;
+    margin: 0%;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 0.719);
+ 
+}
+.container b{
+    letter-spacing: 2px;
+}
+.container .row .col{
+    padding: 60px 0px 60px 0px;
+}
+.container .row .col img{
+    width: 400px;
+    height: 470px;
+   
+}
+.detail h2{
+    color: #555555;
+}

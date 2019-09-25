@@ -1,0 +1,15 @@
+.members{
+    margin: 100px;
+}
+
+.head{
+    color: #555555;
+    margin: 30px;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.container.admins{
+    padding: 100px 50px;
+}

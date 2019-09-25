@@ -1,0 +1,16 @@
+/* Start Edit Profile */
+
+.Edit{
+    width: 400px;
+    margin: 100px auto;
+  }
+  
+  .edit h4{
+    color: #555;
+  }
+  
+  .btn-secondary{
+    margin: 0%;
+  }
+  
+/* Finish Edit Profile */

@@ -1,0 +1,34 @@
+.text-center {
+    margin: 50px;
+    color: #555;
+}
+
+.Add-btn{
+    margin: 40px 120px 60px 120px;
+}
+
+.btn:not(:disabled):not(.disabled){
+    margin: 0%;
+}
+
+.Add {
+    width: 600px;
+    margin: 100px auto;
+}
+
+input[ type="file"]{
+    display: none;
+}
+
+.file-label{
+    color: #495057;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    font-size: 1rem;
+}
+
+.svg-inline--fa{
+    font-size: 16px;
+}

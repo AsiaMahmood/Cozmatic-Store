@@ -1,0 +1,20 @@
+/* Section2 */
+.section2{
+    background-color: #fff;
+   padding: 80px 80px 60px 80px ;
+ }
+ .section2 .main{
+     text-align: center;
+     color: #333;
+     text-transform: uppercase;
+     display: block;
+     font-size: 40px;
+     letter-spacing:5px;
+ }
+ .section2 .sub{
+     text-align: center;
+     color: #444;
+     font-size: 25px;
+  
+ }
+ 
